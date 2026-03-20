@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "workiq": {
+      "type": "url",
+      "url": "https://mcp.workiq.microsoft.com/sse"
+    }
+  }
+}
